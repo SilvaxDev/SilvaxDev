@@ -48,7 +48,24 @@ Me chamo Eliel Jonathan, tenho 21 anos e moro na zona leste de São Paulo. Estou
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+
+<img
+    align="left"
+    alt="Java"
+    title="Java"
+    width="30px"
+    style="padding-rigth: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+<img
+    align="left"
+    alt="SpringBoot"
+    title="SpringBoot"
+    width="30px"
+    style="padding-rigth: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
 />
 
 <br/>
